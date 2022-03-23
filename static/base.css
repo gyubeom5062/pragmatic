@@ -1,3 +1,5 @@
+/*반응형으로 만들기 때문에 px 대신 rem 사용 */
+
 .pragmatic_logo {
 font-family: 'Lobster', cursive;
 }
